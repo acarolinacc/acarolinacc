@@ -4,7 +4,7 @@
 
 ## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
 
-Hello! I'm a Computer Science and Engineering student in my third year of a bachelor's degree program at FEUP (Faculdade de Engenharia da Universidade do Porto). I have a strong foundation in programming languages such as C, C++, Python, JavaScript, HTML, and Shell scripting. I'm passionate about learning and enjoy creating new, productive, innovative, and creative solutions.
+Hello! I'm a Computer Science and Engineering student in my third year of a bachelor's degree program at FEUP (Faculdade de Engenharia da Universidade do Porto). I have a strong foundation in programming languages such as C++, Python, JavaScript, HTML, and Shell scripting. I'm passionate about learning and enjoy creating new, productive, innovative, and creative solutions.
 
 - 🎓 I'm currently in my final year of a Computer Science and Engineering bachelor's program at FEUP.
 - 💻 I specialize in C++, Python, JavaScript, HTML, CSS, SQL, and Java. 
