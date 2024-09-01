@@ -9,8 +9,7 @@ Hello! I'm a Computer Science and Engineering student in my third year of a bach
 - 🎓 I'm currently in my final year of a Computer Science and Engineering bachelor's program at FEUP.
 - 💻 I specialize in C++, Python, JavaScript, HTML, CSS, SQL, and Java. 
 - 🌱 I'm currently expanding my skills by learning ...
-  - Prolog
-  - UX/UI Design
+  - Everything and more...
   
 - 👯 I'm looking forward to collaborating on open source projects, particularly in the following areas:
   - Web development: I'm passionate about creating user-friendly web applications and improving online experiences.
