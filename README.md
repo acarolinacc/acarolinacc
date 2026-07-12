@@ -1,45 +1,112 @@
-# Hi there 👋, Carolina here. 
+# Hi there 👋, Carolina here.
 
-<img align="right" width=300px alt="Unicorn" src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif" />
+<img align="right" width="280px" alt="Busy coding animation" src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif" />
 
 ## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
 
-Hello! I'm a Computer Science and Engineering student in my third year of a bachelor's degree program at FEUP (Faculdade de Engenharia da Universidade do Porto). I have a strong foundation in programming languages such as C++, Python, JavaScript, HTML, and Shell scripting. I'm passionate about learning and enjoy creating new, productive, innovative, and creative solutions.
+Hi! I'm Carolina, a Computer Science graduate from FEUP and currently pursuing a Master's degree in Software Engineering, also at FEUP.
 
-- 🎓 I'm currently in my final year of a Computer Science and Engineering bachelor's program at FEUP.
-- 💻 I specialize in C++, Python, JavaScript, HTML, CSS, SQL, and Java. 
-- 🌱 I'm currently expanding my skills by learning ...
-  - Everything and more...
-  
-- 👯 I'm looking forward to collaborating on open source projects, particularly in the following areas:
-  - Web development: I'm passionate about creating user-friendly web applications and improving online experiences.
-  - Android app development: I'm eager to contribute to mobile app projects and enhance the Android ecosystem.
-  - Digital marketing initiatives: I'm open to projects related to digital marketing strategies and data analysis.
-  - UX/UI design projects: I'm interested in contributing to projects that focus on creating intuitive and visually appealing user interfaces.
-  - Machine learning and data science: I'm excited to work on projects involving data analysis, predictive modeling, and artificial intelligence.
-I'm also open to exploring new opportunities and contributing to projects in other domains. Let's connect and collaborate!
+I enjoy creating things that are useful, meaningful and enjoyable to use. I am naturally curious, like understanding how things work and learn best by exploring new ideas and putting them into practice.
 
-- ✔ Feel free to ask me anything, and I'll be happy to help if I have the expertise! 😄
-- Beyond tech, 📖 I love to read, 🖌️ do painting and sketching, 🎵 listen to music, and 🌴 explore the great outdoors.
-- 📫 You can reach me at: [acarolinacc2003@gmail.com](mailto:acarolinacc2003@gmail.com)
+Technology feels like a natural fit for me because it combines logic, creativity and continuous learning. I enjoy both the technical side of software development and the more human side of design, communication and collaboration.
 
-**I am passionate about Front-End Web Design, Android Development, and Digital Marketing, with a strong focus on creative innovation and design.**
+- 🎓 Currently pursuing a Master's degree in Software Engineering at FEUP.
+- 💻 Graduated in Informatics and Computing Engineering from FEUP.
+- 💼 Gained professional experience through internships at Accenture and PragmaSoft.
+- 🌐 Experienced in full-stack development, mobile development and freelance web design.
+- 🤖 Interested in Software Engineering, Artificial Intelligence, Web Development and UI/UX.
+- 🧠 Currently developing my knowledge in software architecture, testing, secure development, data analysis and software quality.
+- 🌱 Always looking for new opportunities to learn, build and improve.
+- 👯 Open to collaborating on meaningful software, web, mobile, AI and UI/UX projects.
+- 📫 You can reach me at [acarolinacc2003@gmail.com](mailto:acarolinacc2003@gmail.com).
 
+Beyond tech, I love travelling, reading, listening to music, going on long walks and helping animals whenever I can.
 
+---
 
-<h2>👀 My github Stats</h2>
+## 🛠️ Technologies and Skills
 
-<div>
-<!--   <p align="center">
-    <b><em>Now listening to:</em></b> <br/>
-    <img src="https://spotify-github-profile.vercel.app/api/view?uid=Bhargavi-hash&cover_image=true&theme=novatorem" alt="Now Listenting to" />
-  </p> -->
-  
-  <p align="center">
-  <b><em>GitHub Stats:</em></b> <br/>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=acarolinacc" alt="GitHub Stats" /> <br/><br/>
-  
+### Programming Languages
+
+`C#` `Python` `Java` `JavaScript` `PHP` `Dart` `C` `C++` `SQL`
+
+### Frameworks and Web Technologies
+
+`.NET Core` `Angular` `Flutter` `HTML` `CSS` `REST APIs`
+
+### Databases and Tools
+
+`MySQL` `PostgreSQL` `Git` `Linux` `Figma` `UML` `BPMN`
+
+### Software Engineering
+
+`Software Architecture` `SOLID Principles` `Design Patterns`  
+`Requirements Engineering` `Software Testing` `TDD`  
+`Agile Development` `Scrum` `Secure Software Development`
+
+### Artificial Intelligence and Data
+
+`Data Analysis` `Data Mining` `Classification` `Clustering`  
+`Search Algorithms` `AI Planning`
+
+---
+
+## 🚀 Selected Projects
+
+### 🧠 Cogito
+
+Artificial Intelligence planning project developed in Python, using search algorithms such as BFS, DFS and A*.
+
+### 🍴 TasteBudz
+
+Cross-platform mobile application developed with Flutter to help users discover culinary cultures, dishes and experiences from around the world.
+
+### 🌍 Travly
+
+Travel-themed social media platform with user authentication, profile management, content publishing and post-sharing functionalities.
+
+### 🛠️ QuickFix
+
+Web-based helpdesk platform for creating, tracking and managing support tickets using JavaScript, PHP and MySQL.
+
+### 🏃‍♀️ Fit4Fun
+
+Interactive prototype of a gamified fitness application designed in Figma to encourage healthier daily habits.
+
+---
+
+## 🌱 Currently Exploring
+
+- Scalable and maintainable software architectures
+- Software testing, verification and validation
+- Artificial Intelligence and data analysis
+- Secure software development
+- Software quality and process improvement
+- User-centred digital products
+
+---
+
+## 🤝 Let's Connect
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/carolina-costa-b0b634296/)
+- 🌐 [Portfolio](https://acarolinacc.github.io/portfolio/)
+- 📧 [Email](mailto:acarolinacc2003@gmail.com)
+
+---
+
+<h2>👀 My GitHub Stats</h2>
+
+<div align="center">
+
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=acarolinacc" alt="Carolina's GitHub streak statistics" />
+
+  <br/><br/>
+
+  <img src="https://github-readme-stats.vercel.app/api?username=acarolinacc&show_icons=true&include_all_commits=true" alt="Carolina's GitHub statistics" />
+
+  <br/><br/>
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=acarolinacc&layout=compact" alt="Carolina's most used programming languages" />
+
 </div>
 
-![My github status](https://github-readme-stats.vercel.app/api?username=acarolinacc&show_icons=true&include_all_commits=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=acarolinacc&layout=compact)
